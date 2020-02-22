@@ -129,3 +129,5 @@ Complete search component to your list views.
 > Note: AFTER Sprint Challenge: Solutions to many stretch goals (and live demo URLs) are available from TLs (or GitHub admins.)
 
 There are many ways to implement each of these requirements!
+
+Douglas Little
